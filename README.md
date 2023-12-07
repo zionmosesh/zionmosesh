@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zionmosesh
-- 👀 I’m interested in web development,data science and machine learning
-- 🌱 I’m currently learning web development and machine learning
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me email me on zionmosesh@yahoo.com
 
